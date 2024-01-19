@@ -202,7 +202,22 @@ body {
   border-radius: 25px;
   transition: all .3s;
 }
-
+.btn-secondar{
+  display: inline-block;
+  background-color: #1e1e1e;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 500;
+  height: 40px;
+  line-height: 40px;
+  padding: 0px 30px;
+  border-radius: 25px;
+  transition: all .3s;
+}
+.btn-secondar:hover{
+  background-color: #f35525;
+  color: #fff;
+}
 .main-button a:hover {
   background-color: #f35525;
   color: #fff;
